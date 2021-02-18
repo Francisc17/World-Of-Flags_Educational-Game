@@ -1,7 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:heroku" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f51e0c27-e71f-4133-95f9-acde90e39ebf" name="Default Changelist" comment="" />
+    <list default="true" id="f51e0c27-e71f-4133-95f9-acde90e39ebf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/buttons/botao_x1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/buttons/botao_x_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/buttons/fechar_btns.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/buttons/seta_direita_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/buttons/seta_direita_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/buttons/seta_esquerda_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/buttons/seta_esquerda_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/bandeiras/0-portugal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/bandeiras/1-spain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/bandeiras/10-croatia.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/bandeiras/11-albania.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/bandeiras/12-greece.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/bandeiras/13-turkey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/bandeiras/14-bulgaria.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/bandeiras/15-romania.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/bandeiras/16-moldova.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/bandeiras/17-hungary.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/bandeiras/18-slovakia.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/bandeiras/19-poland.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/bandeiras/2-france.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/bandeiras/20-ukraine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/bandeiras/21-belarus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/bandeiras/22-lithuania.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/bandeiras/23-latvia.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/bandeiras/24-estonia.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/bandeiras/25-finland.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/bandeiras/26-sweden.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/bandeiras/27-norway.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/bandeiras/28-denmark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/bandeiras/29-united-kingdom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/bandeiras/3-belgium.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/bandeiras/30-ireland.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/bandeiras/31-iceland.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/bandeiras/4-luxembourg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/bandeiras/5-switzerland.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/bandeiras/6-italy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/bandeiras/7-netherlands.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/bandeiras/8-germany.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/bandeiras/9-austria.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/bandeiras/bandeiras.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/quiz/None/Ativo 22@4x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/quiz/None/Ativo 23@4x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/quiz/None/Ativo 24@4x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/quiz/None/Ativo 25@4x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/quiz/None/Ativo 26@4x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/quiz/None/Ativo 27@4x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/quiz/None/Ativo 28@4x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/quiz/None/Ativo 29@4x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/quiz/None/Ativo 30@4x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/quiz/None/Ativo 31@4x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/quiz/None/Ativo 32@4x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/quiz/None/Ativo 33@4x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/quiz/None/Ativo 34@4x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/quiz/None/Ativo 35@4x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/galeria/quiz/helicopter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tela_inicial/botao_galeria_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tela_inicial/botao_galeria_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tela_inicial/botao_jogar_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tela_inicial/botao_jogar_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tela_inicial/menu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tela_inicial/menu2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tela_inicial/menu3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Scenes/QuizScene.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/Scenes/QuizScene.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sound/Countries.zip" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +99,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1nTXRaBcNDp2MDrBbqTCIpB94zB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,7 +111,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -60,11 +149,26 @@
       <workItem from="1613039847626" duration="1276000" />
       <workItem from="1613069488371" duration="1205000" />
       <workItem from="1613137859807" duration="61465000" />
+      <workItem from="1613328269754" duration="1701000" />
+      <workItem from="1613410622721" duration="1904000" />
+      <workItem from="1613653450945" duration="289000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612881701972">

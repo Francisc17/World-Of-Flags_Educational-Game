@@ -21,6 +21,7 @@ class QuizScene extends Phaser.Scene {
         this.add.text(340, 300, "A carregar...");
     }
 
+
     preload() {
         //background
         this.load.image('background_quiz', 'images/galeria/quiz/background.jpg');
@@ -32,6 +33,11 @@ class QuizScene extends Phaser.Scene {
             if (i < 10)
                 this.load.image('cardQ' + i, 'images/galeria/quiz/cards/card' + i + '.png');
         }
+
+        this.load.spritesheet('voltar','images/buttons/setas_voltar.png',{
+            frameWidth: 174,
+            frameHeight: 127,
+        })
 
         this.load.image('correto', 'images/galeria/quiz/correto.png');
         this.load.image('incorreto', 'images/galeria/quiz/incorreto.png');
@@ -69,6 +75,24 @@ class QuizScene extends Phaser.Scene {
                 color: '#000000'
             }
         })
+
+        //btn_voltar
+        let btnVoltar = this.add.sprite(40,30,'voltar').setInteractive({useHandCursor: true});
+        btnVoltar.setScale(0.5);
+
+        btnVoltar.on('pointerover',function (){
+            btnVoltar.setFrame(1);
+        });
+
+
+        btnVoltar.on('pointerout', function () {
+            btnVoltar.setFrame(0);
+        });
+
+        btnVoltar.on('pointerdown',function (){
+            this.resultado = 0;
+            this.scene.start('MainScreenScene');
+        },this);
 
 
         //card   280 520
@@ -123,8 +147,7 @@ class QuizScene extends Phaser.Scene {
                 indexBtnLocked = 4;
                 break;
 
-        }
-        ;
+        };
 
         indexLocked = Math.floor(Math.random() * 3);
 
@@ -208,8 +231,6 @@ class QuizScene extends Phaser.Scene {
 
 
     animateCard(card, index, x) {
-
-
         if (!index)
             this.generateOptions(index);
 
